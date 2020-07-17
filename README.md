@@ -12,3 +12,15 @@ Installation
 7.run npm update and npm run dev   //when ecnounter dev tool source mapping issue
 
 npm update and npm run dev
+
+--------------------------------------------------------------------------------------------------------
+Expense Manager
+-A simple Laravel application that tracks expenses.
+
+Feautures:
+    -User Management
+        -User Role persmission
+    -Expense Management
+        -Keeps track of user's expenses
+    -Dashboard
+        -Display Chart of expense per Category
