@@ -19,10 +19,13 @@ Expense Manager
 
 Feautures:
 1. User Management
+
         -User Role persmission
         
 2. Expense Management
+
         -Keeps track of user's expenses
         
 3. Dashboard
+
         -Display Chart of expense per Category
