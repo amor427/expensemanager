@@ -15,7 +15,7 @@ npm update and npm run dev
 
 --------------------------------------------------------------------------------------------------------
 Expense Manager
--A simple Laravel application that tracks expenses.
+-A simple Laraveland  Vue application that tracks expenses.
 
 Feautures:
     -User Management
