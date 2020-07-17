@@ -18,9 +18,11 @@ Expense Manager
 -A simple Laraveland  Vue application that tracks expenses.
 
 Feautures:
-    -User Management
+1. User Management
         -User Role persmission
-    -Expense Management
+        
+2. Expense Management
         -Keeps track of user's expenses
-    -Dashboard
+        
+3. Dashboard
         -Display Chart of expense per Category
